@@ -25,5 +25,5 @@ config.Data.ignoreLocality = True
 
 config.Site.storageSite = 'T2_KR_KNU'
 config.Site.whitelist = ['T2_*', 'T3_*']
-config.Site.blacklist = ['T2_US_Wisconsin','T2_CH_CERN']
+config.Site.blacklist = ['T2_US_Wisconsin','T2_CH_CERN','T2_UK_London*','T2_DE_RWTH','T2_FR_GRIF_IRFU']
 
